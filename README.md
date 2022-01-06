@@ -1,3 +1,6 @@
+# House listings, web scraping and Tableau
+
+
 In this project I scraped the first five pages of listings concerning vacation rentals in the Lisbon district shown in Imovirtual. 
 I found 69 unique listings (all the descriptions were different) and extracted variables such as price, area, number of bedrooms,... as well as features listed.
 I also saved string variables such as title and description. I used Python, BeautifulSoup and Pandas.
